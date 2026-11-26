@@ -2,8 +2,6 @@
 
 ### Hi, I'm a girl who loves building things with code!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauryarimjhim" alt="mauryarimjhim" /></a> </p>
-
 - 🌱 I'm currently learning **GraphQL, TypeScript & System Design**
 
 - 👯 I'm looking to collaborate on **Open-source projects and exciting web development ideas.**
